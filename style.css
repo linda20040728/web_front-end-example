@@ -68,3 +68,23 @@ body {
     /* 陰影 */
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
+
+.wrapper .a1{
+    background:#49b86a30
+    color#93d28030
+}
+
+.wrapper .a2{
+    background:#e9f54930
+    color#ebed4c30
+}
+
+.wrapper .a3{
+    background:#ba834430
+    color#51515130
+}
+
+.wrapper .a4{
+    background:#51515130
+    color#df797930
+}
